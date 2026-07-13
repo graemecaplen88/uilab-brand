@@ -27,7 +27,7 @@ Type: PP Neue Montreal for display/body (sentence case, tight tracking); Roboto 
 uppercase for labels. Tight radii (2–10px, square-tittle DNA), hairline white-alpha borders,
 depth from layered tone not heavy shadow, 4pt spacing, crisp 120–280ms ease-out motion,
 2px accent focus ring. Recurring motif: the Logan council "Divisions" silhouettes as faint
-backgrounds / masks / solid pop-coloured shapes. Tagline: "Here for Logan." Verticals:
+backgrounds / masks / solid pop-coloured shapes. Tagline: "Translating emerging technology into local success." Verticals:
 Community · Connect · Events · Podcasts · Industry. Icons: brandmark + mono letter-marks +
 colour status pips; thin outline (Lucide) only for functional glyphs — never emoji.
 
@@ -47,7 +47,7 @@ Always read the real assets/tokens before designing; never invent off-brand colo
 
 ## Voice & copy
 - **Plain, declarative, local.** Short confident statements. Lead with the point.
-  "A place for Logan to grow and succeed." "Here for Logan."
+  "A place for Logan to grow and succeed." "Translating emerging technology into local success."
 - Address the reader as **"you."** The product/org is **"UiLab."**
 - **Sentence case** for everything readable (headings, body, card titles).
   **ALL-CAPS mono** for eyebrows, names, roles, URLs, tags, metadata
@@ -104,7 +104,7 @@ heavy shadow. The only "glow" is a faint accent radial behind a hero element.
   systems. Both ship in every theme colour.
 - **Graphic motif: the Logan "Divisions"** — silhouettes of Logan's 12 council boundaries,
   used as faint background motifs, framing devices, solid pop-coloured shapes, or image
-  masks. Tagline that pairs with them: **"Here for Logan."**
+  masks. Tagline that pairs with them: **"Translating emerging technology into local success"**
 - **Verticals:** Community · Connect · Events · Podcasts · Industry (lock up to the
   wordmark in Title Case).
 
@@ -157,4 +157,4 @@ Full brand assets (logos & wordmarks in 10 themes, Logan division graphics, font
 guidelines PDF, social templates): **https://github.com/graemecaplen88/uilab-brand** —
 explore it for higher-fidelity artwork than any single export.
 
-*Here for Logan.*
+*Translating emerging technology into local success.*
